@@ -1,2 +1,15 @@
 # PonderadaAWS
-Ponderada de programação da semana 3 do modulo 5
+
+# RELATORIO TÉCNICO SOBRE ACESSO SSH NO EC2
+
+# INTRODUÇÃO
+
+# OBJETIVO
+
+# MATERIAIS
+
+# METODO
+
+# RESULTADOS
+
+# CONCLUSÃO
